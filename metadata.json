@@ -1,0 +1,6 @@
+{
+  "name": "ASTRA — Astronaut Health Monitoring & Risk Assessment System",
+  "description": "Offline-first prototype for monitoring simulated astronaut health readings, comparing against individual baselines, analyzing trends, and managing mission alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
